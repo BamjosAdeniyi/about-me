@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?w=826&t=st=1686844042~exp=1686844642~hmac=d3fef9da9ab9c638fe68bc2b1cb4d748b7f9fc577c79148671f93b10c74155dd)]
+[![MasterHead](https://img.freepik.com/premium-vector/programmer-desktop-computer-screen-with-php-html-script-coding-illustration-flat-cartoon_101884-876.jpg?w=900)]
 <h1 align="center">Hi 👋, I'm Oluwabamise Joseph Adeniyi</h1>
 <h3 align="center">An Enthusiastic Software Engineering Student and UIUX/Graphic Designer</h3>
 
