@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **C programming, Python, Javascript**
 
+- 💻 I'm interested in **Frontend and devOps Engineering**
+
 - 💬 Ask me about **HTML/CSS**
 
 - 📫 How to reach me **bamisejoseph95@gmail.com**
