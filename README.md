@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C programming, Python, Javascript**
 
-- 💻 I'm interested in **Frontend and devOps Engineering**
+- 💻 I'm interested majorly in **Frontend and devOps Engineering**
 
 - 💬 Ask me about **HTML/CSS**
 
