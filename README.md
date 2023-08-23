@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/bamjos2" target="blank"><img src="https://img.shields.io/twitter/follow/bamjos2?logo=twitter&style=for-the-badge" alt="bamjos2" /></a> </p>
 
-- 🌱 I’m currently learning **C programming, Python, Javascript**
+- 🌱 I’m currently learning **HTML, CSS and Javascript**
 
-- 💻 I'm interested majorly in **Frontend and devOps Engineering**
+- 💻 I'm interested in **Frontend Development and DevOps**
 
 - 💬 Ask me about **HTML/CSS**
 
