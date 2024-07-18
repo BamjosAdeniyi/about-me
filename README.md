@@ -10,7 +10,7 @@
 
 - 💻 I'm interested in **Web Development and Artificial Iintelligence**
 
-- 💬 Ask me about **PHP, SQL, RDBM, and C**
+- 💬 Ask me about **PHP, SQL, JAVA, and C**
 
 - 📫 How to reach me **bamisejoseph85@gmail.com**
 
