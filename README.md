@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?w=900)
+![MasterHead](https://img.freepik.com/premium-photo/laptop-is-open-time-is-1-00_1130573-201874.jpg?w=900)
 <h1 align="center">Hi 👋, I am Oluwabamise Joseph Adeniyi</h1>
 <h3 align="center">Software Engineering and Web Development Enthusiast</h3>
 
