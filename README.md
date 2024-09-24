@@ -1,4 +1,6 @@
-![MasterHead](https://img.freepik.com/premium-photo/laptop-is-open-time-is-1-00_1130573-201874.jpg?w=900)
+<div align="center">
+    <img src="https://img.freepik.com/premium-photo/laptop-is-open-time-is-1-00_1130573-201874.jpg?w=900" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I am Oluwabamise Joseph Adeniyi</h1>
 <h3 align="center">Software Engineering and Web Development Enthusiast</h3>
 
