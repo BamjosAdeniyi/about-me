@@ -2,7 +2,7 @@
     <img src="https://img.freepik.com/premium-photo/laptop-is-open-time-is-1-00_1130573-201874.jpg?w=900" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I am Oluwabamise Joseph Adeniyi</h1>
-<h3 align="center">Software Engineering and Web Development Enthusiast</h3>
+<i><h3 align="center">Software Engineering and Web Development Enthusiast</h3></i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamjosadeniyi&label=Profile%20views&color=0e75b6&style=flat" alt="bamjosadeniyi" /> </p>
 
