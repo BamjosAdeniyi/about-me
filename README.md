@@ -1,33 +1,93 @@
 <div align="center">
-    <img src="https://img.freepik.com/premium-photo/laptop-is-open-time-is-1-00_1130573-201874.jpg?w=900" alt="MasterHead">
+  <img src="https://sahaj.ai/wp-content/uploads/2025/07/shutterstock_2253228203.jpg?w=900" alt="AI & Software Engineering Banner">
 </div>
-<h1 align="center">Hi 👋, I am Oluwabamise Joseph Adeniyi</h1>
-<i><h3 align="center">Software Engineering and Web Development Enthusiast</h3></i>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bamjosadeniyi&label=Profile%20views&color=0e75b6&style=flat" alt="bamjosadeniyi" /> </p>
+<h1 align="center">Hi 👋, I’m Oluwabamise Joseph Adeniyi</h1>
 
-<p align="left"> <a href="https://twitter.com/bamjos2" target="blank"><img src="https://img.shields.io/twitter/follow/bamjos2?logo=twitter&style=for-the-badge" alt="bamjos2" /></a> </p>
+<h3 align="center">
+Software Engineering & Artificial Intelligence Researcher<br/>
+<em>(AI for Software Engineering • Software Engineering for AI)</em>
+</h3>
 
-- 🌱 I am currently learning **Flask**
-
-- 💻 I'm interested in **Software Engineering and Web Development**
-
-- 💬 Ask me about **PHP, SQL, JAVA, and C**
-
-- 📫 How to reach me **bamisejoseph85@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bamjos2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bamjos2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwabamise-adeniyi-492155195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwabamise-adeniyi-492155195" height="30" width="40" /></a>
-<a href="https://instagram.com/bamjos_graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bamjos_graphics" height="30" width="40" /></a>
+<p align="center">
+I am a researcher and software engineer with strong interests in the intersection of
+<b>Artificial Intelligence</b>, <b>Software Engineering</b>, and <b>Human-AI Interaction</b>.
+My long-term goal is to contribute to trustworthy, scalable, and human-centered AI-driven software systems.
 </p>
 
-<h3 align="left">Programming Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bamjosadeniyi&show_icons=true&locale=en&layout=compact" alt="bamjosadeniyi" /></p>
+### 🔬 Research & Academic Interests
+- AI for Software Engineering (AI4SE)
+- Software Engineering for AI Systems (SE4AI)
+- Natural Language Processing (NLP)
+- Human-AI Interaction & User-Centered Systems
+- Trustworthy & Explainable AI
+- AI-assisted Programming and Developer Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bamjosadeniyi&show_icons=true&locale=en" alt="bamjosadeniyi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bamjosadeniyi&" alt="bamjosadeniyi" /></p>
+### 🚀 Current Focus
+- Advancing skills in **Natural Language Processing**
+- Backend development with **PHP (Laravel)** for scalable systems
+- Research preparation toward **PhD-level work and publications**
+- Bridging theory, empirical research, and real-world software systems
+
+---
+
+### 🧠 Technical Expertise
+- **Programming Languages:** Python, PHP, C, SQL
+- **Web & Backend:** Laravel, Flask, RESTful APIs
+- **Databases:** Relational Databases (SQL)
+- **Research & Data:** NLP pipelines, ML fundamentals, empirical analysis
+- **Tools:** Git, GitHub, Linux
+
+---
+
+### 💬 Ask Me About
+- Software Engineering concepts
+- AI & NLP fundamentals
+- Research methods, SLRs, Meta-analysis
+- Backend development with PHP & Python
+- Academic project structuring and defences
+
+---
+
+### 📫 Contact
+- **Email:** bamisejoseph85@gmail.com  
+- **LinkedIn:** <a href="https://linkedin.com/in/oluwabamise-adeniyi-492155195" target="_blank">Oluwabamise Adeniyi</a>  
+- **Twitter/X:** <a href="https://twitter.com/bamjos2" target="_blank">@bamjos2</a>
+
+---
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=tjGT6ZwAAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Oluwabamise-Adeniyi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Profile Metrics
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bamjosadeniyi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bamjosadeniyi&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamjosadeniyi&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bamjosadeniyi" alt="GitHub Streak" />
+</p>
