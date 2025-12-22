@@ -5,8 +5,9 @@
 <h1 align="center">Oluwabamise Joseph Adeniyi</h1>
 
 <h3 align="center">
-PhD Aspirant | Software Engineering & Artificial Intelligence Researcher<br/>
-<em>AI for Software Engineering (AI4SE) • Software Engineering for AI (SE4AI)</em>
+PhD Candidate | Software Engineering & Artificial Intelligence Researcher<br/>
+<em>AI for Software Engineering (AI4SE) • Software Engineering for AI (SE4AI)</em><br/>
+Assistant Lecturer of Software Engineering at Babcock University
 </h3>
 
 <p align="center">
